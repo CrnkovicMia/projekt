@@ -1,0 +1,34 @@
+main {
+    max-width: 800px;
+    margin: 20px auto;
+    padding: 20px;
+    background: #fff;
+    border: 1px solid #ddd;
+    border-radius: 5px;
+}
+
+
+h2 {
+    color: #333;
+    margin-bottom: 10px;
+}
+
+h3 {
+    margin-top: 20px;
+    color: #F25C00;
+}
+
+p {
+    margin-bottom: 15px;
+    color: #555;
+}
+
+.video-container {
+    text-align: center;
+    margin-top: 20px;
+}
+
+video {
+    border: 1px solid #ddd;
+    border-radius: 5px;
+}
